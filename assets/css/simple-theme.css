@@ -1,0 +1,37 @@
+/* Simple Theme CSS */
+
+body.simple-theme {
+    background-color: #f5f5f5;
+    color: #333;
+}
+
+.simple-theme .navbar {
+    background-color: #fff;
+    border-bottom: 1px solid #ddd;
+}
+
+.simple-theme .main-slider {
+    background-color: #f5f5f5;
+}
+
+.simple-theme .slide {
+    background-color: #fff;
+    border: 1px solid #ddd;
+}
+
+.simple-theme .about-section,
+.simple-theme .contact-section,
+.simple-theme .portfolio-section,
+.simple-theme .blog-section {
+    background-color: #fff;
+    border: 1px solid #ddd;
+}
+
+.simple-theme .footer {
+    background-color: #333;
+    color: #fff;
+}
+
+.simple-theme .placeholder {
+    background-color: #ddd;
+}

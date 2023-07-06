@@ -1,0 +1,37 @@
+/* Dark Theme Styles */
+
+body.dark-theme {
+    background-color: #121212;
+    color: #ffffff;
+}
+
+.dark-theme .navbar {
+    background-color: #1f1f1f;
+    border-bottom: 1px solid #333;
+}
+
+.dark-theme .main-slider {
+    background-color: #1f1f1f;
+}
+
+.dark-theme .about-section,
+.dark-theme .contact-section,
+.dark-theme .portfolio-section,
+.dark-theme .blog-section {
+    background-color: #1f1f1f;
+    border-top: 1px solid #333;
+}
+
+.dark-theme .footer {
+    background-color: #1f1f1f;
+    border-top: 1px solid #333;
+}
+
+.dark-theme .slide {
+    background-color: #1f1f1f;
+}
+
+.dark-theme .placeholder {
+    background-color: #333;
+    border: 1px solid #444;
+}

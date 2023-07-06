@@ -1,0 +1,56 @@
+@import url('assets/css/tailwind.css');
+@import url('assets/css/dark-theme.css');
+@import url('assets/css/simple-theme.css');
+@import url('assets/css/clean-theme.css');
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    line-height: 1.6;
+}
+
+.navbar {
+    background: #333;
+    color: #fff;
+    padding: 15px;
+}
+
+.main-slider {
+    background: #333;
+    color: #fff;
+    padding: 15px;
+}
+
+.about-section, .contact-section, .portfolio-section, .blog-section {
+    padding: 15px;
+}
+
+.footer {
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 15px;
+}
+
+.dark-theme {
+    background-color: #1a202c;
+    color: #a0aec0;
+}
+
+.simple-theme {
+    background-color: #edf2f7;
+    color: #2d3748;
+}
+
+.clean-theme {
+    background-color: #fff;
+    color: #1a202c;
+}
+
+.slide {
+    display: none;
+}
+
+.placeholder {
+    background-image: url('assets/images/placeholder.png');
+    background-size: cover;
+}

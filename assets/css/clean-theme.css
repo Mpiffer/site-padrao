@@ -1,0 +1,38 @@
+/* Clean Theme CSS */
+
+body.clean-theme {
+    background-color: #f5f5f5;
+    color: #333;
+}
+
+.clean-theme .navbar {
+    background-color: #fff;
+    border-bottom: 1px solid #ddd;
+}
+
+.clean-theme .main-slider {
+    background-color: #f5f5f5;
+}
+
+.clean-theme .slide {
+    background-color: #fff;
+    border: 1px solid #ddd;
+}
+
+.clean-theme .placeholder {
+    background-color: #eee;
+}
+
+.clean-theme .about-section,
+.clean-theme .contact-section,
+.clean-theme .portfolio-section,
+.clean-theme .blog-section {
+    background-color: #fff;
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+}
+
+.clean-theme .footer {
+    background-color: #fff;
+    border-top: 1px solid #ddd;
+}

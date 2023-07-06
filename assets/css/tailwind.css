@@ -1,0 +1,44 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+/* Custom styles */
+body {
+  @apply bg-black text-white;
+}
+
+.navbar {
+  @apply bg-gray-800;
+}
+
+.main-slider {
+  @apply flex justify-center items-center;
+}
+
+.about-section, .contact-section, .portfolio-section, .blog-section {
+  @apply p-6;
+}
+
+.footer {
+  @apply bg-gray-800;
+}
+
+.dark-theme {
+  @apply bg-gray-900 text-white;
+}
+
+.simple-theme {
+  @apply bg-gray-100 text-gray-900;
+}
+
+.clean-theme {
+  @apply bg-white text-gray-800;
+}
+
+.slide {
+  @apply flex justify-center items-center;
+}
+
+.placeholder {
+  @apply w-full h-full object-cover;
+}
